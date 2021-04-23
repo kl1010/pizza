@@ -1,0 +1,7 @@
+{
+  "DATASOURCE":"jdbc:postgresql://localhost/pizza",
+  "USERNAME": "pizza",
+  "PASSWORD": "amazingDog15",
+  "PORT": "9000",
+  "DEBUG": true
+}
